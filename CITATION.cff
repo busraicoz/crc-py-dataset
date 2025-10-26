@@ -1,0 +1,12 @@
+
+cff-version: 1.2.0
+title: "Code Review Comments for Python (CRC-Py) — A Multi-View Labeled Dataset of Python Code Review Comments"
+authors:
+  - family-names: Icoz
+    given-names: Busra
+version: "1.0.0"
+date-released: 2025-10-26
+message: "If you use this dataset or tooling, please cite this record."
+identifiers:
+  - type: url
+    value: https://github.com/YOUR_ORG/YOUR_REPO

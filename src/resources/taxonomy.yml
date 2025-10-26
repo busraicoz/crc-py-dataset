@@ -1,0 +1,30 @@
+
+# Taxonomy adapted from Turzo et al., ESEM 2023
+categories:
+  - functional
+  - refactoring
+  - documentation
+  - discussion
+  - false positive
+subcategories:
+  functional:
+    - logical
+    - validation
+    - interface
+    - timing
+    - resource
+    - support issues
+  refactoring:
+    - variable naming
+    - code organization
+    - solution approach
+    - alternate output
+    - visual representation
+  documentation:
+    - documentation
+  discussion:
+    - design discussion
+    - question
+    - praise
+  false positive:
+    - false positive
